@@ -1,0 +1,131 @@
+html {
+  font-size: 10px; 
+  font-family: 'Sevillana', cursive;   
+  background-color: #606137;
+}
+
+nav {
+  font-size: 30px; 
+  font-family: cursive;
+}
+
+aside {
+  font-size: 24px;
+  color:#a3d618;
+}
+
+body {
+  width: 1500px;
+  margin: 0 auto;
+  background-color: #2f7a64;
+  padding: 0 20px 20px 20px;
+  border: 2px solid rgb(197, 24, 76);
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+}
+
+h1 {
+  color: rgb(216, 12, 12);
+  font-size: 40px;
+  text-align: center;
+}
+
+.nav {
+  color: rgb(27, 2, 2);
+  font-size: 30px;
+  text-align: auto;
+}
+.osn {
+  color: rgb(122, 223, 6);
+  font-size: 20px;
+  text-align: auto;
+}
+
+#spisok {
+  color: rgb(131, 11, 57);
+  font-size: 25px;
+  text-align: auto;
+}
+.news {
+  color: rgb(10, 52, 68);
+  font-size: 30px;
+  text-align: auto;
+}
+
+.news > article > h2{
+  color: rgb(129, 2, 108);
+  font-size: 35px;
+  text-align: auto;
+}
+
+#dif {
+  color: rgb(25, 231, 6);
+  font-size: 30px;
+  text-align: auto;
+}
+
+.seb {
+  color: rgb(67, 56, 77);
+  font-size: 20px;
+  text-align: auto;
+}
+
+.seb > article > a {
+  color: rgb(235, 216, 46);
+  font-size: 30px;
+  text-align: auto;
+}
+
+
+
+
+
+
+/*html {
+  font-size: 10px; 
+  font-family: 'Sevillana', cursive;   
+  background-color: #606137;
+}
+
+
+
+h1 {
+  font-size: 60px;
+  text-align: center;
+  margin: 0;
+  padding: 20px 0;
+  color: #19acc0;
+  text-shadow: 3px 3px 1px black;
+} 
+
+div {
+  font-size: 20px;
+  text-align: auto;
+  margin: 0;
+  padding: 2px 0;
+  color: #c07819;
+} 
+
+p, o, li {
+  font-size: 20px;
+  text-align: auto;
+  margin: 0;
+  padding: 5px 0;
+  color: #51cc0a;
+} 
+
+a {
+  font-size: 30px;
+  text-align: auto;
+  margin: 0;
+  padding: 5px 0;
+  color: hsl(66, 94%, 49%);
+} 
+
+img {
+  display: block;
+  margin: 0 auto;
+}
